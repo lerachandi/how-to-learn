@@ -1,0 +1,11 @@
+.khan__book-pic {
+  width: 600px;
+  height: 608px;
+  object-fit: cover;
+  object-position: top;
+  margin-right: 48px;
+}
+
+.khan__buy-link:hover {
+  opacity: 50%;
+  }
