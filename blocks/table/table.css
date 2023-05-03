@@ -3,8 +3,6 @@
 @import url(__text/table__text.css);
 @import url(theme/table_theme_dark.css);
 @import url(__cell/theme/table__cell_theme_dark.css);
-@import url(__text/theme/table__text_theme_dark.css);
-
 
 .table {
   display: flex;
