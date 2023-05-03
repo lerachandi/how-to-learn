@@ -5,7 +5,6 @@
 @import url(__column-links/footer__column-links.css);
 @import url(__column-link/footer__column-link.css);
 
-
 .footer {
   display: flex;
   justify-content: center;

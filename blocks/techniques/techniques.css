@@ -1,7 +1,5 @@
 @import url(cards/cards.css);
 @import url(cards/__item/cards__item.css);
-@import url(cards/__image/cards__image.css);
-
 
 .techniques {
   display: flex;
