@@ -1,6 +1,3 @@
-@import url(cards/cards.css);
-@import url(cards/__item/cards__item.css);
-
 .techniques {
   display: flex;
   width: 80%;
